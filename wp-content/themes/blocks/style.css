@@ -3,3 +3,7 @@ Theme Name: Blocks
 Author: Cesar Jimenez
 Version: 1.0
 */
+
+body {
+  color: blue;
+}
