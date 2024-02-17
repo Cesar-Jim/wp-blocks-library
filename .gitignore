@@ -1,0 +1,31 @@
+# Generic ignores
+/.DS_Store
+/.sass-cache
+/.htaccess
+/._*
+/*.log
+/db_backups
+node_modules
+
+# Config files
+/wp-config.php
+/config-environment.json
+
+
+# WP Core
+/wp-admin/
+/wp-includes/
+/index.php
+/license.txt
+/readme.html
+/wp-*.php
+/xmlrpc.php
+
+
+# Ignore all of wp-content except the active theme
+# and any parent themes
+!/wp-content/
+/wp-content/*
+!/wp-content/themes/
+/wp-content/themes/*
+!/wp-content/themes/blocks/
