@@ -1,0 +1,27 @@
+{
+  "name": "blocks",
+  "version": "1.0.0",
+  "description": "A library of components",
+  "main": "index.js",
+  "scripts": {
+    "build": "wp-scripts build",
+    "start": "wp-scripts start",
+    "dev": "wp-scripts start",
+    "devFast": "wp-scripts start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cesar-Jim/wp-blocks-library.git"
+  },
+  "author": "Cesar Jimenez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cesar-Jim/wp-blocks-library/issues"
+  },
+  "homepage": "https://github.com/Cesar-Jim/wp-blocks-library#readme",
+  "dependencies": {
+    "@wordpress/scripts": "^27.2.0",
+    "normalize.css": "^8.0.1"
+  }
+}

@@ -1,0 +1,1 @@
+{"version":3,"file":"./style-index.css","mappings":";;;AAAA;AAEA;EACE;AAAF,C","sources":["webpack://blocks/./css/style.scss"],"sourcesContent":["/* Imports go here */\r\n\r\nh1 {\r\n  color: red;\r\n}\r\n"],"names":[],"sourceRoot":""}
